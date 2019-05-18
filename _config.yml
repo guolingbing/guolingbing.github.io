@@ -1,1 +1,24 @@
-theme: jekyll-theme-minimal
+title: Lingbing Guo
+url: "https://guolingbing.github.io"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/guolingbing"
+footer_text: "github.com/guolingbing"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "cv.pdf"
+ - name: "Contact"
+   link: "contact"
