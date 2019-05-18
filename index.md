@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am master student in Department of Computer Science and Technology, Nanjing University, China. I received my B.S. degree in
+Hi, I am a master student in Department of Computer Science and Technology, Nanjing University, China. I received my B.S. degree in
 computer science and technology in 2016 from Henan University, China.
 
 ## Research Interest
