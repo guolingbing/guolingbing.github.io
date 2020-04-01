@@ -18,8 +18,6 @@ Currently, I would like to exploit the methodlogy of unsupervised and open knowl
 
 ## Publications
 
-Farahnaz Akrami, Mohammed Samiul Saeef, **Lingbing Guo**, Wei Hu, Chengkai Li, Realistic Re-evaluation of Knowledge Graph Completion Methods. ***SIGMOD***, 2020.
-
 Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs. ***ISWC***, 2019.
 
 **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. Learning to complete knowledge graphs with deep sequential models. ***Data Intelligence***, 2019.
