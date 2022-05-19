@@ -6,17 +6,20 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am Lingbing. I received my B.S. degree in
-Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at  Nanjing University. I am currently a PhD candidate at Zhejiang University, supervised by Prof. Huajun Chen.
+Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, cosupervised by Prof. Huajun Chen and Dr. Qiang Zhang. I received my B.S. degree in
+Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
 ## Research Interest
 
-My previous study focuses on *knowledge graph representation learning*, and aims to elaborately apply some *deep learning* methods, e.g., ResNet and RNNs, on it.
-Currently, I would like to exploit the methodlogy of unsupervised and open knowledge graph embedding.
+My research interests include *representation learning*, *machine learning for biological science*, and *molecular dynamics for machine learning*.
 
 ---
 
 ## Publications
+
+**Lingbing Guo**, Zequn Sun, Mingyang Chen, Wei Hu, Qiang Zhang, Huajun Chen. Understanding and Improving Knowledge Graph Embedding for Entity Alignment. ***ICML***, 2022.
+
+**Lingbing Guo**, Yuqiang Han, Qiang Zhang, Huajun Chen. [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=CRBzhRdkycU). ***Findings of ACL***, 2022.
 
 Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs. ***ISWC***, 2019.
 
