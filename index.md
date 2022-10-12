@@ -6,12 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, cosupervised by Prof. Huajun Chen and Dr. Qiang Zhang. I received my B.S. degree in
+Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, cosupervised by Prof. Huajun Chen. I received my B.S. degree in
 Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
-## Research Interest
-
-My research interests include *representation learning*, *machine learning for biological science*, and *molecular dynamics for machine learning*.
 
 ---
 
