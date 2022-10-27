@@ -14,7 +14,7 @@ Computer Science and Technology in 2016 at Henan University, and M.S. degree in 
 
 ## Publications
 
-**Lingbing Guo**, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen. Understanding and Improving Knowledge Graph Embedding for Entity Alignment. ***ICML***, 2022.
+**Lingbing Guo**, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen. [Understanding and Improving Knowledge Graph Embedding for Entity Alignment](https://proceedings.mlr.press/v162/guo22i.html). ***ICML***, 2022.
 
 **Lingbing Guo**, Yuqiang Han, Qiang Zhang, Huajun Chen. [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=CRBzhRdkycU). ***Findings of ACL***, 2022.
 
