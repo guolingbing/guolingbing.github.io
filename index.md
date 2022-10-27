@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, cosupervised by Prof. Huajun Chen. I received my B.S. degree in
+Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
 Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
 
