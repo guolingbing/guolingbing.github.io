@@ -6,13 +6,19 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am Lingbing, currently a PhD candidate at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
+Hi, I am Lingbing, currently a PhD student at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
 Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
 
 ---
 
 ## Publications
+
+**Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). ***NeurIPS***, 2023.
+
+Zhuo Chen, **Lingbing Guo**, Yin Fang, Yichi Zhang, Jiaoyan Chen, Wen Zhang, Jeff Z. Pan, Yangning Li and Huajun Chen. [Rethinking Uncertain Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210). ***ISWC***, 2023.
+
+Zhuo Chen, Jiaoyan Chen, Wen Zhang, **Lingbing Guo**, Yin Fang, Yufeng Huang, Yichi Zhang, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen. [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/abs/2212.14454). ***ACM MM***, 2023.
 
 **Lingbing Guo**, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen. [Understanding and Improving Knowledge Graph Embedding for Entity Alignment](https://proceedings.mlr.press/v162/guo22i.html). ***ICML***, 2022.
 
