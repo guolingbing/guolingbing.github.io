@@ -14,7 +14,7 @@ Computer Science and Technology in 2016 at Henan University, and M.S. degree in 
 
 ## Publications
 
-**Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). ***NeurIPS***, 2023.
+**Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). ***NeurIPS (Spotlight)***, 2023.
 
 Zhuo Chen, **Lingbing Guo**, Yin Fang, Yichi Zhang, Jiaoyan Chen, Wen Zhang, Jeff Z. Pan, Yangning Li and Huajun Chen. [Rethinking Uncertain Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210). ***ISWC***, 2023.
 
@@ -28,13 +28,13 @@ Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. Tr
 
 **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. Learning to complete knowledge graphs with deep sequential models. ***Data Intelligence***, 2019.
 
-Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). In ***IJCAI***, 2019.
+Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). ***IJCAI***, 2019.
 
-**Lingbing Guo**, Zequn Sun, Wei Hu. [Learning to exploit long-term relational dependencies in knowledge graphs](https://arxiv.org/abs/1905.04914). In ***ICML***, 2019.
+**Lingbing Guo**, Zequn Sun, Wei Hu. [Learning to exploit long-term relational dependencies in knowledge graphs](https://arxiv.org/abs/1905.04914). ***ICML***, 2019.
 
-**Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). In ***CCKS***. **Best paper award**.
+**Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). ***CCKS Best Paper Award***, 2018. .
 
-Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). In ***CIKM***. Short paper.
+Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). ***CIKM***, 2018.
 
 
 
