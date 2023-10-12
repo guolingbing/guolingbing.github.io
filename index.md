@@ -32,7 +32,7 @@ Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. 
 
 **Lingbing Guo**, Zequn Sun, Wei Hu. [Learning to exploit long-term relational dependencies in knowledge graphs](https://arxiv.org/abs/1905.04914). ***ICML***, 2019.
 
-**Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). ***CCKS Best Paper Award***, 2018. .
+**Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). ***CCKS Best Paper Award***, 2018.
 
 Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). ***CIKM***, 2018.
 
