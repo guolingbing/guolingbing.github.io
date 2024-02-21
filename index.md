@@ -14,6 +14,13 @@ Computer Science and Technology in 2016 at Henan University, and M.S. degree in 
 
 ## Publications
 
+**Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen. [DET: A Dual-Encoding Transformer for Relational Graph Embedding](https://arxiv.org/abs/2202.10581). ***COLING***, 2024.
+
+
+**Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen. [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651). ***ICLR***, 2024.
+
+Yin Fang, Ningyu Zhang, Zhuo Chen, **Lingbing Guo**, Xiaohui Fan, Huajun Chen. [Domain-Agnostic Molecular Generation with Self-feedback](https://arxiv.org/abs/2301.11259). ***ICLR***, 2024.
+
 **Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). ***NeurIPS (Spotlight)***, 2023.
 
 Zhuo Chen, **Lingbing Guo**, Yin Fang, Yichi Zhang, Jiaoyan Chen, Wen Zhang, Jeff Z. Pan, Yangning Li and Huajun Chen. [Rethinking Uncertain Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210). ***ISWC (Best Paper Candidate)***, 2023.
