@@ -14,7 +14,7 @@ Computer Science and Technology in 2016 at Henan University, and M.S. degree in 
 
 ## Publications
 
-**Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://arxiv.org/abs/2010.08114). ***Knowledge-Based Systems***, 2024.
+**Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
 
 **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen. [DET: A Dual-Encoding Transformer for Relational Graph Embedding](https://arxiv.org/abs/2202.10581). ***COLING***, 2024.
 
