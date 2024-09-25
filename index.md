@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi, I am Lingbing, currently a PhD student at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
+Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
 Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
+My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me (lbguo@zju.edu.cn)! I am also looking for faculty positions at colleges in China.
 
 ---
 
@@ -43,8 +44,6 @@ Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. 
 **Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). ***CCKS Best Paper Award***, 2018.
 
 Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). ***CIKM***, 2018.
-
-
 
 
 
