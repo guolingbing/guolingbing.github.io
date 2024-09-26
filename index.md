@@ -15,6 +15,8 @@ My research focues on knowledge graph, generative models, LLMs, and their integr
 
 ## Publications
 
+**Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
+
 **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
 
 **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen. [DET: A Dual-Encoding Transformer for Relational Graph Embedding](https://arxiv.org/abs/2202.10581). ***COLING***, 2024.
