@@ -9,7 +9,7 @@ layout: default
 Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. Huajun Chen. I received my B.S. degree in
 Computer Science and Technology in 2016 at Henan University, and M.S. degree in Computer Science and Technology in 2019 at Nanjing University.
 
-My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me (lbguo@zju.edu.cn)! I am also looking for faculty positions at colleges in China.
+My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me (lbguo@zju.edu.cn)!
 
 ---
 
