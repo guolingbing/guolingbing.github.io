@@ -1,0 +1,80 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<span class='anchor' id='about-me'></span>
+
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. Huajun Chen. My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
+
+
+# 📝 Publications
+
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning. In ***ICLR***, 2025.
+
+- Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. Noise-powered Multi-modal Knowledge Graph Representation Framework. In ***COLING***, 2025.
+
+
+- **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. K-ON: Stacking Knowledge On the Head Layer of Large Language Model. In ***AAAI (Oral)***, 2025
+
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation. In ***AAAI***, 2025
+
+- **Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
+
+- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
+
+- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen. [DET: A Dual-Encoding Transformer for Relational Graph Embedding](https://arxiv.org/abs/2202.10581). In ***COLING***, 2024.
+
+- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen. [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651). In ***ICLR***, 2024.
+
+- Yin Fang, Ningyu Zhang, Zhuo Chen, **Lingbing Guo**, Xiaohui Fan, Huajun Chen. [Domain-Agnostic Molecular Generation with Self-feedback](https://arxiv.org/abs/2301.11259). In ***ICLR***, 2024.
+
+- **Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). In ***NeurIPS (Spotlight)***, 2023.
+
+- Zhuo Chen, **Lingbing Guo**, Yin Fang, Yichi Zhang, Jiaoyan Chen, Wen Zhang, Jeff Z. Pan, Yangning Li and Huajun Chen. [Rethinking Uncertain Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210). In ***ISWC (Best Paper Candidate)***, 2023.
+
+- Zhuo Chen, Jiaoyan Chen, Wen Zhang, **Lingbing Guo**, Yin Fang, Yufeng Huang, Yichi Zhang, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen. [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/abs/2212.14454). In ***ACM MM***, 2023.
+
+- **Lingbing Guo**, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen. [Understanding and Improving Knowledge Graph Embedding for Entity Alignment](https://proceedings.mlr.press/v162/guo22i.html). In ***ICML***, 2022.
+
+- **Lingbing Guo**, Yuqiang Han, Qiang Zhang, Huajun Chen. [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=CRBzhRdkycU). In ***Findings of ACL***, 2022.
+
+- Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs. In ***ISWC***, 2019.
+
+- **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. Learning to complete knowledge graphs with deep sequential models. ***Data Intelligence***, 2019.
+
+- Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). In ***IJCAI***, 2019.
+
+- **Lingbing Guo**, Zequn Sun, Wei Hu. [Learning to exploit long-term relational dependencies in knowledge graphs](https://arxiv.org/abs/1905.04914). In ***ICML***, 2019.
+
+- **Lingbing Guo**, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu. [DSKG: A deep sequential model for knowledge graph completion](https://arxiv.org/abs/1810.12582). In ***CCKS (Best Paper)***, 2018.
+
+- Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). In ***CIKM***, 2018.
+
+
+
+
+# 📖 Educations
+- *2021.09 - present*, PhD, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
+- *2016.09 - 2019.06*, Master, supervised by Prof. [Wei Hu](http://ws.nju.edu.cn/~whu), Nanjing University.
+- *2012.09 - 2016.06*, Undergraduate, Henan University.
+
+
+# ✍️ Academic Service
+- Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, MM, SIGIR, ECML, ISWC, TKDE, KBS
+
+
+<a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
