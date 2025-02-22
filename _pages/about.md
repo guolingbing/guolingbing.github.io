@@ -24,14 +24,13 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 # 📝 Publications
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning. In ***ICLR***, 2025.
-
-- Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. Noise-powered Multi-modal Knowledge Graph Representation Framework. In ***COLING***, 2025.
-
-
+  
 - **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. K-ON: Stacking Knowledge On the Head Layer of Large Language Model. In ***AAAI (Oral)***, 2025
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation. In ***AAAI***, 2025
 
+- Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. Noise-powered Multi-modal Knowledge Graph Representation Framework. In ***COLING***, 2025.
+  
 - **Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
 
 - **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
