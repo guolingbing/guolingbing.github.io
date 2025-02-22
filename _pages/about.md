@@ -69,6 +69,8 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 
 # 📖 Educations
 - *2021.09 - present*, PhD, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
+- *2020.07 - 2021.06*, Assistant researcher, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
+- *2019.07 - 2020.06*, A distinct gap.
 - *2016.09 - 2019.06*, Master, supervised by Prof. [Wei Hu](http://ws.nju.edu.cn/~whu), Nanjing University.
 - *2012.09 - 2016.06*, Undergraduate, Henan University.
 
