@@ -78,7 +78,7 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 - *2012.09 - 2016.06*, Undergraduate, Henan University.
 
 
-# ✍️ Academic Service
+# ✍️ Academic Services
 - Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, ACM MM, SIGIR, ECML, ISWC, COLING, TKDE, KBS, etc.‌
 - Volunteer: ISWC 2021, VALSE 2021, OpenKG
 
