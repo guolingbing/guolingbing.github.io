@@ -55,9 +55,9 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 
 - **Lingbing Guo**, Yuqiang Han, Qiang Zhang, Huajun Chen. [Deep Reinforcement Learning for Entity Alignment](https://openreview.net/pdf?id=CRBzhRdkycU). In ***Findings of ACL***, 2022.
 
-- Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs. In ***ISWC***, 2019.
+- Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs](https://arxiv.org/pdf/2004.13579). In ***ISWC***, 2019.
 
-- **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. Learning to complete knowledge graphs with deep sequential models. ***Data Intelligence***, 2019.
+- **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. [Learning to complete knowledge graphs with deep sequential models](https://direct.mit.edu/dint/article/1/3/289/9979/Learning-to-Complete-Knowledge-Graphs-with-Deep). ***Data Intelligence***, 2019.
 
 - Qingheng Zhang, Zequn Sun, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). In ***IJCAI***, 2019.
 
