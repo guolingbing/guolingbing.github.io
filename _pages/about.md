@@ -18,28 +18,32 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. Huajun Chen. My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
+Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun). My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
 
 
 # 📝 Publications
 
-- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning. In ***ICLR***, 2025.
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning](https://arxiv.org/pdf/2405.16869). In ***ICLR***, 2025.
   
-- **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. K-ON: Stacking Knowledge On the Head Layer of Large Language Model. In ***AAAI (Oral)***, 2025
+- **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/pdf/2502.06257). In ***AAAI (Oral)***, 2025
 
-- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation. In ***AAAI***, 2025
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation](https://arxiv.org/pdf/2404.09468). In ***AAAI***, 2025
 
-- Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. Noise-powered Multi-modal Knowledge Graph Representation Framework. In ***COLING***, 2025.
+- Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/pdf/2403.06832). In ***COLING***, 2025.
   
 - **Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
 
-- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Wen Zhang, Huajun Chen. [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671). In ***ACM MM***, 2024.
 
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://arxiv.org/pdf/2406.17605). In ***SIGIR***, 2024.
+  
+- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen. [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651). In ***ICLR***, 2024.
+  
 - **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen. [DET: A Dual-Encoding Transformer for Relational Graph Embedding](https://arxiv.org/abs/2202.10581). In ***COLING***, 2024.
 
-- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen. [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651). In ***ICLR***, 2024.
-
 - Yin Fang, Ningyu Zhang, Zhuo Chen, **Lingbing Guo**, Xiaohui Fan, Huajun Chen. [Domain-Agnostic Molecular Generation with Self-feedback](https://arxiv.org/abs/2301.11259). In ***ICLR***, 2024.
+
+- **Lingbing Guo**, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. [Distributed Representations of Entities in Open-World Knowledge Graphs](https://www.sciencedirect.com/science/article/pii/S095070512400217X). ***Knowledge-Based Systems***, 2024.
 
 - **Lingbing Guo**, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen. [Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems](https://arxiv.org/abs/2305.14642). In ***NeurIPS (Spotlight)***, 2023.
 
@@ -55,7 +59,7 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 
 - **Lingbing Guo**, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu. Learning to complete knowledge graphs with deep sequential models. ***Data Intelligence***, 2019.
 
-- Qingheng Zhang*, Zequn Sun*, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). In ***IJCAI***, 2019.
+- Qingheng Zhang, Zequn Sun, Wei Hu, Muchao Chen, **Lingbing Guo**, Yuzhong Qu. [Multi-view knowledge graph embedding for entity alignment](https://arxiv.org/abs/1906.02390). In ***IJCAI***, 2019.
 
 - **Lingbing Guo**, Zequn Sun, Wei Hu. [Learning to exploit long-term relational dependencies in knowledge graphs](https://arxiv.org/abs/1905.04914). In ***ICML***, 2019.
 
@@ -75,7 +79,7 @@ Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, s
 
 
 # ✍️ Academic Service
-- Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, MM, SIGIR, ECML, ISWC, TKDE, KBS
-
+- Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, ACM MM, SIGIR, ECML, ISWC, COLING, TKDE, KBS, etc.‌
+- Volunteer: ISWC 2021, VALSE 2021, OpenKG
 
 <a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
