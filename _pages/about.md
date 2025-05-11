@@ -18,7 +18,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hi, I am Lingbing, currently a fourth-year PhD student at Zhejiang University, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun). My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
+Hi, I am Lingbing, currently an associate researcher of TJUDB at College of Intelligence and Computing, Tianjin University. My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
 
 
 # 📝 Publications
