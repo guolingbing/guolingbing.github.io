@@ -23,6 +23,12 @@ Hi, I am Lingbing, currently an associate researcher of TJUDB at College of Inte
 
 # 📝 Publications
 
+- Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen. Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing. In ***ACM MM***, 2025.
+
+- Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Min Zhang, Wen Zhang, Huajun Chen. Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation. In ***ACM MM (Oral)***, 2025.
+
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Shaokai Chen, Mengshu Sun, Binbin Hu, Zhiqiang Zhang, Lei Liang, Wen Zhang, Huajun Chen. [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/pdf/2501.00244). In ***ACL***, 2025.
+
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning](https://arxiv.org/pdf/2405.16869). In ***ICLR***, 2025.
   
 - **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/pdf/2502.06257). In ***AAAI (Oral)***, 2025
