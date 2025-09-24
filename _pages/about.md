@@ -23,19 +23,21 @@ Hi, I am Lingbing, currently an associate researcher at College of Intelligence 
 
 # 📝 Publications
 
-- Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen. Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing. In ***ACM MM***, 2025.
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Min Zhang, Wen Zhang, Huajun Chen. [Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation](https://arxiv.org/pdf/2506.01293). In ***ACM MM (Oral)***, 2025.
 
-- Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Min Zhang, Wen Zhang, Huajun Chen. Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation. In ***ACM MM (Oral)***, 2025.
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen. Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing. In ***ACM MM***, 2025.
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Shaokai Chen, Mengshu Sun, Binbin Hu, Zhiqiang Zhang, Lei Liang, Wen Zhang, Huajun Chen. [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/pdf/2501.00244). In ***ACL***, 2025.
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning](https://arxiv.org/pdf/2405.16869). In ***ICLR***, 2025.
   
-- **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/pdf/2502.06257). In ***AAAI (Oral)***, 2025
+- **Lingbing Guo**, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen. [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/pdf/2502.06257). In ***AAAI (Oral)***, 2025.
 
-- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation](https://arxiv.org/pdf/2404.09468). In ***AAAI***, 2025
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. [Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation](https://arxiv.org/pdf/2404.09468). In ***AAAI***, 2025.
 
 - Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/pdf/2403.06832). In ***COLING***, 2025.
+
+- Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, **Lingbing Guo**, Jiaoyan Chen, Xiaoze Liu, Jeff Z Pan, Ningyu Zhang, Huajun Chen, Wen Zhang. [Knowledge Graphs for Multi-modal Learning: Survey and Perspective](https://arxiv.org/pdf/2402.05391). Information Fusion, 2025.
   
 - **Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
 
