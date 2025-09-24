@@ -37,7 +37,7 @@ Hi, I am Lingbing, currently an associate researcher at College of Intelligence 
 
 - Zhuo Chen, Yin Fang, Yichi Zhang, **Lingbing Guo**, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. [Noise-powered Multi-modal Knowledge Graph Representation Framework](https://arxiv.org/pdf/2403.06832). In ***COLING***, 2025.
 
-- Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, **Lingbing Guo**, Jiaoyan Chen, Xiaoze Liu, Jeff Z Pan, Ningyu Zhang, Huajun Chen, Wen Zhang. [Knowledge Graphs for Multi-modal Learning: Survey and Perspective](https://arxiv.org/pdf/2402.05391). Information Fusion, 2025.
+- Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, **Lingbing Guo**, Jiaoyan Chen, Xiaoze Liu, Jeff Z Pan, Ningyu Zhang, Huajun Chen, Wen Zhang. [Knowledge Graphs for Multi-modal Learning: Survey and Perspective](https://arxiv.org/pdf/2402.05391). ***Information Fusion***, 2025.
   
 - **Lingbing Guo** Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Lan Yarong, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen. [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn). In ***NeurIPS (Spotlight)***, 2024.
 
