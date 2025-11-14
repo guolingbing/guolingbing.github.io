@@ -18,7 +18,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hi, I am Lingbing, currently an associate researcher at College of Intelligence and Computing, Tianjin University. My research focues on knowledge graph, generative models, LLMs, and their integration. If you are interested in my field of work, please feel free to contact me!
+Hi, I’m Lingbing, currently an associate researcher at College of Intelligence and Computing, Tianjin University. My research focuses on knowledge graphs, generative models, LLMs, and their integration. If you’re interested in my work, feel free to contact me!
 
 
 # 📝 Publications
@@ -91,10 +91,8 @@ Hi, I am Lingbing, currently an associate researcher at College of Intelligence 
 # ✍️ Professional Service
 - Area Chair: ACL ARR
 - Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, etc.
-- Invated Talks:
 
 # 💬 Talks
-
 - [Graph Agents: Paradigms, Architectures, and Practices](https://ccf.org.cn/cncc2025/schedule_d_4222), ***CNCC Tutorial***, 2025.
 
 <a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
