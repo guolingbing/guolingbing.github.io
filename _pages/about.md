@@ -95,6 +95,6 @@ Hi, I am Lingbing, currently an associate researcher at College of Intelligence 
 
 # 💬 Talks
 
-- [Graph Agents: Paradigms, Architectures, and Practices](https://ccf.org.cn/cncc2025/schedule_d_4222), ***CNCC Tutorial***， 2025.
+- [Graph Agents: Paradigms, Architectures, and Practices](https://ccf.org.cn/cncc2025/schedule_d_4222), ***CNCC Tutorial***, 2025.
 
 <a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
