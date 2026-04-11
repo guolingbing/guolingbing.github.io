@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingbing Guo (郭凌冰)"
-description              : "Associate Researcher"
+description              : "Assistant Professor"
 repository               : "guolingbing/guolingbing.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lingbing Guo"
   avatar           : "images/avatar.jpg"
-  bio              : "Tianjin University"
-  location         : "Tianjin, China"
+  bio              : "Nanjing University"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=og4v8cMAAAAJ&hl=en"
-  email            : "lbguo@tju.edu.cn"
+  email            : "lbguo.nju@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
