@@ -18,11 +18,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hi, I’m Lingbing, currently an assistant professor at School of Intelligence Science and Technology, Nanjing University. My research interests include knowledge graphs, multi-modal learning, LLMs, and their integration (e.g., MMKG, MLLM, RAG, agentic memory, and multi-agent systems). I'm actively looking for PhD students, Master students, and research interns. If you’re interested in my work, feel free to contact me!
+Hi, I’m Lingbing, currently an assistant professor at School of Intelligence Science and Technology, Nanjing University. My research interests include knowledge graphs, multi-modal learning, LLMs, and their integration (e.g., MMKG, MLLM, RAG, agentic memory, and multi-agent systems). 
+
+I'm actively looking for PhD students, Master students, and research interns. If you’re interested in my work, feel free to contact me!
 
 
 
-### 📝 Publications
+## 📝 Publications
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Jun Xu, Mengshu Sun, Zhizhen Liu, Lei Liang, Wen Zhang, Huajun Chen. Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations. In ***ACL***, 2026.
 
@@ -85,7 +87,7 @@ Hi, I’m Lingbing, currently an assistant professor at School of Intelligence S
 - Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). In ***CIKM***, 2018.
 
 
-### 📖 Education & Work Experience
+## 📖 Education & Work Experience
 - *2025.04 - 2026.03*, Associate researcher, College of Intelligence and Computing, Tianjin University.
 - *2021.09 - 2025.03*, PhD, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
 - *2020.07 - 2021.06*, Assistant researcher, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
@@ -94,11 +96,11 @@ Hi, I’m Lingbing, currently an assistant professor at School of Intelligence S
 - *2012.09 - 2016.06*, Undergraduate, Henan University.
 
 
-### ✍️ Professional Service
+## ✍️ Professional Service
 - Area Chair: ACL ARR
 - Reviewer: Neurips, ICLR, ICML, ACL ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, etc.
 
-### 💬 Talks
+## 💬 Talks
 - [Graph Agents: Paradigms, Architectures, and Practices](https://ccf.org.cn/cncc2025/schedule_d_4222), ***CNCC Tutorial***, 2025.
 
 <a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
