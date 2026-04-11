@@ -18,16 +18,23 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-Hi, I’m Lingbing, currently an associate researcher at College of Intelligence and Computing, Tianjin University. My research focuses on knowledge graphs, generative models, LLMs, and their integration. If you’re interested in my work, feel free to contact me!
+Hi, I’m Lingbing, currently an assistant professor at School of Intelligence Science and Technology, Nanjing University. My research interests include knowledge graphs, multi-modal learning, LLMs, and their integration (e.g., MMKG, MLLM, RAG, agentic memory, and multi-agent systems). I'm actively looking for PhD students, Master students, and research interns. If you’re interested in my work, feel free to contact me!
 
 
-# 📝 Publications
 
-- **Lingbing Guo**, Zhuo Chen, Yichi Zhang, Wenbin Guo, Haonan Yang, Zhao Li, Zirui Chen, Xin Wang. [rMMEA: Robust Multi-Modal Entity Alignment with Missing and Noise Visual Modality](). In ***AAAI***, 2026.
+### 📝 Publications
+
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Jun Xu, Mengshu Sun, Zhizhen Liu, Lei Liang, Wen Zhang, Huajun Chen. Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations. In ***ACL***, 2026.
+
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Wen Zhang, Huajun Chen. Structured and Abstractive Reasoning on Multi-modal Relational Knowledge Images. In ***Findings of ACL***, 2026.
+
+- Wenbin Guo, Xin Wang, Jiaoyan Chen, **Lingbing Guo**, Zhao Li, Zirui Chen. [ReaLM: Residual Quantization Bridging Knowledge Graph Embeddings and Large Language Models](https://arxiv.org/abs/2510.09711). In ***WWW (Oral)***, 2026.
+
+- **Lingbing Guo**, Zhuo Chen, Yichi Zhang, Wenbin Guo, Haonan Yang, Zhao Li, Zirui Chen, Xin Wang. [rMMEA: Robust Multi-Modal Entity Alignment with Missing and Noise Visual Modality](https://ojs.aaai.org/index.php/AAAI/article/view/39293). In ***AAAI***, 2026.
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Min Zhang, Wen Zhang, Huajun Chen. [Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation](https://arxiv.org/pdf/2506.01293). In ***ACM MM (Oral)***, 2025.
 
-- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen. Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing. In ***ACM MM***, 2025.
+- Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen. [Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing](https://dl.acm.org/doi/10.1145/3746027.3755311). In ***ACM MM***, 2025.
 
 - Yichi Zhang, Zhuo Chen, **Lingbing Guo**, Yajing Xu, Shaokai Chen, Mengshu Sun, Binbin Hu, Zhiqiang Zhang, Lei Liang, Wen Zhang, Huajun Chen. [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/pdf/2501.00244). In ***ACL***, 2025.
 
@@ -78,9 +85,8 @@ Hi, I’m Lingbing, currently an associate researcher at College of Intelligence
 - Farahnaz Akrami, **Lingbing Guo**, Wei Hu, Chengkai Li. [Re-evaluating embedding-based knowledge graph completion methods](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf). In ***CIKM***, 2018.
 
 
-
-
-# 📖 Education
+### 📖 Education & Work Experience
+- *2025.04 - 2026.03*, Associate researcher, College of Intelligence and Computing, Tianjin University.
 - *2021.09 - 2025.03*, PhD, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
 - *2020.07 - 2021.06*, Assistant researcher, supervised by Prof. [Huajun Chen](https://person.zju.edu.cn/huajun), Zhejiang University.
 - *2019.07 - 2020.06*, A distinct gap.
@@ -88,11 +94,11 @@ Hi, I’m Lingbing, currently an associate researcher at College of Intelligence
 - *2012.09 - 2016.06*, Undergraduate, Henan University.
 
 
-# ✍️ Professional Service
+### ✍️ Professional Service
 - Area Chair: ACL ARR
-- Reviewer: Neurips, ICLR, ICML, ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, etc.
+- Reviewer: Neurips, ICLR, ICML, ACL ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, etc.
 
-# 💬 Talks
+### 💬 Talks
 - [Graph Agents: Paradigms, Architectures, and Practices](https://ccf.org.cn/cncc2025/schedule_d_4222), ***CNCC Tutorial***, 2025.
 
 <a href="https://info.flagcounter.com/r4RW"><img src="https://s05.flagcounter.com/mini/r4RW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
