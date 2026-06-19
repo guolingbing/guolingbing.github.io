@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, I’m Lingbing, currently an assistant professor at School of Intelligence Science and Technology, Nanjing University. My research interests include knowledge graphs, multi-modal learning, LLMs, and their integration (e.g., MMKG, MLLM, RAG, agentic memory, and multi-agent systems). 
 
-I'm actively looking for PhD students, Master students, and research interns. If you’re interested in my work, feel free to contact me!
+I'm actively looking for PhD students, Master students, and research interns. If you’re interested in my work, feel free to contact me (lbguo at nju.edu.cn)!
 
 
 
