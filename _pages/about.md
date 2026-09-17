@@ -97,7 +97,7 @@ I'm actively looking for PhD students, Master students, and research interns. If
 
 
 ## ✍️ Professional Service
-- Area Chair: ACL ARR
+- Area Chair: ACL ARR, AAAI, ICLR
 - Reviewer: Neurips, ICLR, ICML, ACL ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, etc.
 
 ## 💬 Talks
