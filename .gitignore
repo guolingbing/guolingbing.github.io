@@ -2,3 +2,7 @@ _site/
 push.sh
 .DS_Store
 /github_myprofile_updater/README.md
+tmp/
+.jekyll-metadata
+.jekyll-cache/
+.sass-cache/

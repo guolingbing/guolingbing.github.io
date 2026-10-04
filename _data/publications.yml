@@ -1,0 +1,204 @@
+# Published papers, newest first. Keep full author lists; the template highlights Lingbing Guo.
+
+- year: 2026
+  title: "SeeKG: Multi-modal LLMs Understand Knowledge Graphs as Images"
+  authors: "Lingbing Guo, Yichi Zhang, Yang Liu, Zhuo Chen, Zequn Sun"
+  venue: "Findings of EMNLP"
+  note: "To appear · Corresponding author: Zequn Sun"
+  # Venue and final author list supplied by Lingbing Guo, 2026-10-04.
+
+- year: 2026
+  title: "多域知识图谱的协同建模与下游任务适配"
+  authors: "张溢弛，胡斌斌，陈卓，郭凌冰，刘子奇，梁磊，陈华钧，张文"
+  venue: "计算机工程与应用"
+  lang: "zh-CN"
+  url: "https://kns.cnki.net/kcms2/article/abstract?v=WF2qaKZJ90o0kvhs1nAspMVQuElyvMytBkjd0nQ5k7Mz5Q6LGxl5fYne68pWq2umqI4YHcUqnOMRK6bTEmmZZPWEqQ1-FZlGBGw-4hmS_5fqn_B-ZEC0GQ6tipBQvL36lWQ-Dkkjf7PsLkfEJ7GO59oCr6zsSt61uCFchaqkKU_pHmVucb5VIds4nX9QH53RTlMBcGHjnrA&uniplatform=NZKPT&captchaId=41765df0-b074-4ee6-b940-3949a23a0278"
+  # Bibliographic details supplied by Lingbing Guo, 2026-10-04; publication date: 2026-03-19.
+  # CNKI article URL supplied by Lingbing Guo.
+
+- year: 2026
+  title: "Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Jun Xu, Mengshu Sun, Zhizhen Liu, Lei Liang, Wen Zhang, Huajun Chen"
+  venue: "ACL"
+  url: "https://aclanthology.org/2026.acl-long.867/"
+
+- year: 2026
+  title: "Structured and Abstractive Reasoning on Multi-modal Relational Knowledge Images"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Wen Zhang, Huajun Chen"
+  venue: "Findings of ACL"
+  url: "https://aclanthology.org/2026.findings-acl.761/"
+
+- year: 2026
+  title: "ReaLM: Residual Quantization Bridging Knowledge Graph Embeddings and Large Language Models"
+  authors: "Wenbin Guo, Xin Wang, Jiaoyan Chen, Lingbing Guo, Zhao Li, Zirui Chen"
+  venue: "WWW"
+  url: "https://arxiv.org/abs/2510.09711"
+  award: "Oral"
+
+- year: 2026
+  title: "rMMEA: Robust Multi-Modal Entity Alignment with Missing and Noise Visual Modality"
+  authors: "Lingbing Guo, Zhuo Chen, Yichi Zhang, Wenbin Guo, Haonan Yang, Zhao Li, Zirui Chen, Xin Wang"
+  venue: "AAAI"
+  url: "https://ojs.aaai.org/index.php/AAAI/article/view/39293"
+
+- year: 2025
+  title: "Abstractive Visual Understanding of Multi-modal Structured Knowledge: A New Perspective for MLLM Evaluation"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Min Zhang, Wen Zhang, Huajun Chen"
+  venue: "ACM MM"
+  url: "https://arxiv.org/pdf/2506.01293"
+  award: "Oral"
+
+- year: 2025
+  title: "Client-Server Co-design with Multi-modal Codebooks Makes Better and Faster Federate Knowledge Sharing"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Lei Liang, Wen Zhang, Huajun Chen"
+  venue: "ACM MM"
+  url: "https://dl.acm.org/doi/10.1145/3746027.3755311"
+
+- year: 2025
+  title: "Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Shaokai Chen, Mengshu Sun, Binbin Hu, Zhiqiang Zhang, Lei Liang, Wen Zhang, Huajun Chen"
+  venue: "ACL"
+  url: "https://arxiv.org/pdf/2501.00244"
+
+- year: 2025
+  title: "Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen"
+  venue: "ICLR"
+  url: "https://arxiv.org/pdf/2405.16869"
+
+- year: 2025
+  title: "K-ON: Stacking Knowledge On the Head Layer of Large Language Model"
+  authors: "Lingbing Guo, Yichi Zhang, Zhongpu Bo, Zhuo Chen, Mengshu Sun, Zhiqiang Zhang, Wen Zhang, Huajun Chen"
+  venue: "AAAI"
+  url: "https://arxiv.org/pdf/2502.06257"
+  award: "Oral"
+
+- year: 2025
+  title: "Tokenization, Fusion, and Augmentation: Towards Fine-grained Multi-modal Entity Representation"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen"
+  venue: "AAAI"
+  url: "https://arxiv.org/pdf/2404.09468"
+
+- year: 2025
+  title: "Noise-powered Multi-modal Knowledge Graph Representation Framework"
+  authors: "Zhuo Chen, Yin Fang, Yichi Zhang, Lingbing Guo, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang"
+  venue: "COLING"
+  url: "https://arxiv.org/pdf/2403.06832"
+
+- year: 2025
+  title: "Knowledge Graphs for Multi-modal Learning: Survey and Perspective"
+  authors: "Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Jiaoyan Chen, Xiaoze Liu, Jeff Z Pan, Ningyu Zhang, Huajun Chen, Wen Zhang"
+  venue: "Information Fusion"
+  url: "https://arxiv.org/pdf/2402.05391"
+
+- year: 2024
+  title: "MKGL: Mastery of a Three-Word Language"
+  authors: "Lingbing Guo, Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Yarong Lan, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen"
+  venue: "NeurIPS"
+  url: "https://openreview.net/forum?id=eqMNwXvOqn"
+  award: "Spotlight"
+
+- year: 2024
+  title: "Making Large Language Models Perform Better in Knowledge Graph Completion"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Wen Zhang, Huajun Chen"
+  venue: "ACM MM"
+  url: "https://arxiv.org/pdf/2310.06671"
+
+- year: 2024
+  title: "NativE: Multi-modal Knowledge Graph Completion in the Wild"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen"
+  venue: "SIGIR"
+  url: "https://arxiv.org/pdf/2406.17605"
+
+- year: 2024
+  title: "Revisit and Outstrip Entity Alignment: A Perspective of Generative Models"
+  authors: "Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen"
+  venue: "ICLR"
+  url: "https://arxiv.org/abs/2305.14651"
+
+- year: 2024
+  title: "DET: A Dual-Encoding Transformer for Relational Graph Embedding"
+  authors: "Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Qiang Zhang, Huajun Chen"
+  venue: "COLING"
+  url: "https://arxiv.org/abs/2202.10581"
+
+- year: 2024
+  title: "Domain-Agnostic Molecular Generation with Self-feedback"
+  authors: "Yin Fang, Ningyu Zhang, Zhuo Chen, Lingbing Guo, Xiaohui Fan, Huajun Chen"
+  venue: "ICLR"
+  url: "https://arxiv.org/abs/2301.11259"
+
+- year: 2024
+  title: "Distributed Representations of Entities in Open-World Knowledge Graphs"
+  authors: "Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yichi Zhang, Zequn Sun, Zhongpo Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang"
+  venue: "Knowledge-Based Systems"
+  url: "https://www.sciencedirect.com/science/article/pii/S095070512400217X"
+
+- year: 2023
+  title: "Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems"
+  authors: "Lingbing Guo, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen"
+  venue: "NeurIPS"
+  url: "https://arxiv.org/abs/2305.14642"
+  award: "Spotlight"
+
+- year: 2023
+  title: "Rethinking Uncertain Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment"
+  authors: "Zhuo Chen, Lingbing Guo, Yin Fang, Yichi Zhang, Jiaoyan Chen, Wen Zhang, Jeff Z. Pan, Yangning Li and Huajun Chen"
+  venue: "ISWC"
+  url: "https://arxiv.org/abs/2307.16210"
+  award: "Best Paper Candidate"
+
+- year: 2023
+  title: "MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid"
+  authors: "Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yichi Zhang, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen"
+  venue: "ACM MM"
+  url: "https://arxiv.org/abs/2212.14454"
+
+- year: 2022
+  title: "Understanding and Improving Knowledge Graph Embedding for Entity Alignment"
+  authors: "Lingbing Guo, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen"
+  venue: "ICML"
+  url: "https://proceedings.mlr.press/v162/guo22i.html"
+
+- year: 2022
+  title: "Deep Reinforcement Learning for Entity Alignment"
+  authors: "Lingbing Guo, Yuqiang Han, Qiang Zhang, Huajun Chen"
+  venue: "Findings of ACL"
+  url: "https://openreview.net/pdf?id=CRBzhRdkycU"
+
+- year: 2019
+  title: "TransEdge: Translating Relation-contextualized Embeddings for Knowledge Graphs"
+  authors: "Zequn Sun, Jiacheng Huang, Wei Hu, Muchao Chen, Lingbing Guo, Yuzhong Qu"
+  venue: "ISWC"
+  url: "https://arxiv.org/pdf/2004.13579"
+
+- year: 2019
+  title: "Learning to complete knowledge graphs with deep sequential models"
+  authors: "Lingbing Guo, Qingheng Zhang, Wei Hu, Zequn Sun, Yuzhong Qu"
+  venue: "Data Intelligence"
+  url: "https://direct.mit.edu/dint/article/1/3/289/9979/Learning-to-Complete-Knowledge-Graphs-with-Deep"
+
+- year: 2019
+  title: "Multi-view knowledge graph embedding for entity alignment"
+  authors: "Qingheng Zhang, Zequn Sun, Wei Hu, Muchao Chen, Lingbing Guo, Yuzhong Qu"
+  venue: "IJCAI"
+  url: "https://arxiv.org/abs/1906.02390"
+
+- year: 2019
+  title: "Learning to exploit long-term relational dependencies in knowledge graphs"
+  authors: "Lingbing Guo, Zequn Sun, Wei Hu"
+  venue: "ICML"
+  url: "https://arxiv.org/abs/1905.04914"
+
+- year: 2018
+  title: "DSKG: A deep sequential model for knowledge graph completion"
+  authors: "Lingbing Guo, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu"
+  venue: "CCKS"
+  url: "https://arxiv.org/abs/1810.12582"
+  award: "Best Paper"
+
+- year: 2018
+  title: "Re-evaluating embedding-based knowledge graph completion methods"
+  authors: "Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li"
+  venue: "CIKM"
+  url: "http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf"

@@ -1,0 +1,5 @@
+<li class="publication-item"{% if include.paper.lang %} lang="{{ include.paper.lang }}"{% endif %}>
+  <h3 class="publication-title">{% if include.paper.url %}<a href="{{ include.paper.url | escape }}">{{ include.paper.title | escape }}</a>{% else %}<a href="{{ '/' | relative_url }}#publications-{{ include.paper.year }}" title="Paper link coming soon">{{ include.paper.title | escape }}</a>{% endif %}</h3>
+  <p class="publication-authors">{{ include.paper.authors | escape | replace: 'Lingbing Guo', '<strong>Lingbing Guo</strong>' | replace: '郭凌冰', '<strong>郭凌冰</strong>' }}{% if include.paper.lang == 'zh-CN' %}。{% else %}.{% endif %}</p>
+  <p class="publication-venue"><span>{{ include.paper.venue | escape }} · {{ include.paper.year }}</span>{% if include.paper.award %}<span class="publication-award">{{ include.paper.award | escape }}</span>{% endif %}{% if include.paper.note %}<span class="publication-note">{{ include.paper.note | escape }}</span>{% endif %}</p>
+</li>

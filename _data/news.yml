@@ -1,0 +1,21 @@
+# Pinned items always appear first; keep other items most recent first.
+# Use only the date precision supported by the source.
+- pinned: true
+  anchor: "join-us"
+  lang: "zh-CN"
+  text: >-
+    **招生与科研实习 · Join Us**<br>
+    欢迎对大语言模型、智能体、知识图谱与多模态学习感兴趣的同学联系我，申请博士、硕士研究生或科研实习。也欢迎希望探索这些方向的本科生交流。
+    可以发邮件至 [lbguo@nju.edu.cn](mailto:lbguo@nju.edu.cn)，聊聊你的学习背景、研究兴趣，以及想探索的问题；也欢迎附上简历、项目或已有工作。期待一起发现有趣的问题！
+- date: "2026.08"
+  text: '**SeeKG: Multi-modal LLMs Understand Knowledge Graphs as Images** is accepted to **Findings of EMNLP 2026**.'
+- date: "2026.08"
+  text: 'New preprint: [Toward Effective and Reliable LLM Agents via Dynamic Ontology](https://arxiv.org/abs/2608.22974).'
+- date: "2026.07"
+  text: 'Two papers appear at **ACL 2026** and **Findings of ACL 2026**, on knowledge-informed citations and multimodal relational reasoning. [Papers →](#publications-2026)'
+# Publication date: 2026-04-12, https://research.manchester.ac.uk/en/publications/realm-residual-quantization-bridging-knowledge-graph-embeddings-a/
+- date: "2026.04"
+  text: '**ReaLM** is published in **WWW 2026** (**Oral**). [Paper →](https://doi.org/10.1145/3774904.3792437)'
+# Publication date: 2026-03-14, https://ojs.aaai.org/index.php/AAAI/article/view/39293
+- date: "2026.03"
+  text: '**rMMEA** is published in **AAAI 2026**. [Paper →](https://ojs.aaai.org/index.php/AAAI/article/view/39293)'

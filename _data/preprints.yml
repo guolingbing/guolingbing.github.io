@@ -1,0 +1,25 @@
+# Verified on arXiv, 2026-10-04. Move a record to publications.yml when its venue is confirmed.
+
+- year: 2026
+  title: "Toward Effective and Reliable LLM Agents via Dynamic Ontology"
+  authors: "Xiaohui Zhang, Zequn Sun, Chengyuan Yang, Yuanning Cui, Lingbing Guo, Wei Hu"
+  venue: "arXiv preprint"
+  url: "https://arxiv.org/abs/2608.22974"
+
+- year: 2026
+  title: "When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction"
+  authors: "Feiyang Ren, Shengtao Wen, Lingbing Guo, Yu Tian, Yuanning Cui, Xiang Chen"
+  venue: "arXiv preprint"
+  url: "https://arxiv.org/abs/2608.15592"
+
+- year: 2026
+  title: "Symbolic and Abstractive Reasoning with Complex Visual Queries"
+  authors: "Yichi Zhang, Jingdian Lu, Zhuo Chen, Lingbing Guo, Jun Xu, Wen Zhang, Huajun Chen"
+  venue: "arXiv preprint"
+  url: "https://arxiv.org/abs/2606.09195"
+
+- year: 2026
+  title: "Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens"
+  authors: "Yichi Zhang, Zhuo Chen, Lingbing Guo, Wen Zhang, Huajun Chen"
+  venue: "arXiv preprint"
+  url: "https://arxiv.org/abs/2602.15896"
