@@ -43,17 +43,25 @@ redirect_from:
     <h2 id="publications-title">Publications</h2>
     <div class="bibliography-links"><a href="{{ site.author.googlescholar }}">Google Scholar</a><span aria-hidden="true"> / </span><a href="{{ site.author.dblp }}">DBLP</a></div>
   </div>
-  <p class="section-note">Published and accepted papers, grouped by year.</p>
+  <p class="section-note">Selected work, followed by all published and accepted papers by year.</p>
+  {% assign selected_papers = site.data.publications | where: "selected", true %}
   {% assign publication_years = site.data.publications | group_by: "year" | sort: "name" | reverse %}
   <div class="publication-toolbar">
-    <nav class="year-navigation" aria-label="Publication years">
+    <nav class="year-navigation" aria-label="Publication groups">
+      <a href="#selected-publications">Selected</a>
       {% for year in publication_years %}<a href="#publications-{{ year.name }}">{{ year.name }}</a>{% endfor %}
     </nav>
     <button class="text-button" id="toggle-publications" type="button" hidden>Expand all years</button>
   </div>
+  <details class="publication-year" id="selected-publications" open>
+    <summary><span class="year-label">Selected</span><span class="paper-count">{{ selected_papers.size }} papers</span><span class="disclosure-icon" aria-hidden="true"></span></summary>
+    <ol class="publication-list">
+      {% for paper in selected_papers %}{% include publication.html paper=paper %}{% endfor %}
+    </ol>
+  </details>
   <div id="publication-years">
     {% for year in publication_years %}
-    <details class="publication-year" id="publications-{{ year.name }}"{% if forloop.first %} open{% endif %}>
+    <details class="publication-year" id="publications-{{ year.name }}">
       <summary><span class="year-label">{{ year.name }}</span><span class="paper-count">{{ year.items.size }} papers</span><span class="disclosure-icon" aria-hidden="true"></span></summary>
       <ol class="publication-list">
         {% for paper in year.items %}{% include publication.html paper=paper %}{% endfor %}
@@ -72,6 +80,15 @@ redirect_from:
       {% for paper in site.data.preprints %}{% include publication.html paper=paper %}{% endfor %}
     </ol>
   </details>
+</section>
+
+<section id="awards" class="home-section" aria-labelledby="awards-title">
+  <h2 id="awards-title">Awards</h2>
+  <dl class="detail-list">
+    {% for award in site.data.awards %}
+    <div><dt>{{ award.year }}</dt><dd>{{ award.title | escape }}</dd></div>
+    {% endfor %}
+  </dl>
 </section>
 
 <section id="service" class="home-section" aria-labelledby="service-title">

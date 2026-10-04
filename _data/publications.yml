@@ -93,6 +93,7 @@
 
 - year: 2024
   title: "MKGL: Mastery of a Three-Word Language"
+  selected: true
   authors: "Lingbing Guo, Zhongpu Bo, Zhuo Chen, Yichi Zhang, Jiaoyan Chen, Yarong Lan, Mengshu Sun, Zhiqiang Zhang, Yangyifei Luo, Qian Li, Qiang Zhang, Wen Zhang, Huajun Chen"
   venue: "NeurIPS"
   url: "https://openreview.net/forum?id=eqMNwXvOqn"
@@ -112,6 +113,7 @@
 
 - year: 2024
   title: "Revisit and Outstrip Entity Alignment: A Perspective of Generative Models"
+  selected: true
   authors: "Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen"
   venue: "ICLR"
   url: "https://arxiv.org/abs/2305.14651"
@@ -136,6 +138,7 @@
 
 - year: 2023
   title: "Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems"
+  selected: true
   authors: "Lingbing Guo, Weiqing Wang, Zhuo Chen, Ningyu Zhang, Zequn Sun, Yixuan Lai, Qiang Zhang, Huajun Chen"
   venue: "NeurIPS"
   url: "https://arxiv.org/abs/2305.14642"
@@ -156,6 +159,7 @@
 
 - year: 2022
   title: "Understanding and Improving Knowledge Graph Embedding for Entity Alignment"
+  selected: true
   authors: "Lingbing Guo, Qiang Zhang, Zequn Sun, Mingyang Chen, Wei Hu, Huajun Chen"
   venue: "ICML"
   url: "https://proceedings.mlr.press/v162/guo22i.html"
@@ -186,6 +190,7 @@
 
 - year: 2019
   title: "Learning to exploit long-term relational dependencies in knowledge graphs"
+  selected: true
   authors: "Lingbing Guo, Zequn Sun, Wei Hu"
   venue: "ICML"
   url: "https://arxiv.org/abs/1905.04914"
@@ -195,7 +200,7 @@
   authors: "Lingbing Guo, Qingheng Zhang, Weiyi Ge, Wei Hu, Yuzhong Qu"
   venue: "CCKS"
   url: "https://arxiv.org/abs/1810.12582"
-  award: "Best Paper"
+  award: "Best English Paper"
 
 - year: 2018
   title: "Re-evaluating embedding-based knowledge graph completion methods"

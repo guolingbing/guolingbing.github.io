@@ -1,7 +1,8 @@
 # 主页维护
 
-- `_pages/about.md`：Biography、研究方向、News 与论文列表模板、Office Hours、学术服务和报告。
-- `_data/publications.yml`：已发表及已录用论文，按年份自动分组，最新一年默认展开。
+- `_pages/about.md`：Biography、研究方向、News 与论文列表模板、Awards、Office Hours、学术服务和报告。
+- `_data/publications.yml`：已发表及已录用论文，按年份自动分组。`selected: true` 的条目同时出现在最前方的 Selected，默认展开；完整年份列表默认收起。
+- `_data/awards.yml`：获奖与提名，按年份倒序，仅显示奖项名称和年份。
 - `_data/preprints.yml`：尚未确认正式录用的 arXiv 工作，独立展示。录用后将条目移到 `publications.yml`，更新会议与年份，避免两处重复。
 - `_data/news.yml`：近期动态，按新到旧排列；日期只写已确认的精度。招生信息设置 `pinned: true` 自动置顶，`anchor: "join-us"` 保留原链接，`lang: "zh-CN"` 标记中文。
 - `_data/navigation.yml`：顶部导航。
@@ -15,10 +16,12 @@
   authors: "First Author, Lingbing Guo, Last Author"
   venue: "Findings of EMNLP"
   url: "https://..."
-  # 可选：award: "Oral" / note: "To appear" / lang: "zh-CN"
+  # 可选：selected: true / award: "Oral" / note: "To appear" / lang: "zh-CN"
 ```
 
 作者名单保持完整，模板自动加粗 Lingbing Guo / 郭凌冰。没有正式链接时省略 `url`，标题暂时链接到本页对应年份，悬停提示论文链接待补，保持标题样式一致。已录用论文即使链接仍指向 arXiv，也属于 Publications；分类以录用状态为准。
+
+Selected 目前收录 Lingbing Guo 为第一作者的 ICML、NeurIPS、ICLR 论文，共 5 篇（ICML 2 篇、NeurIPS 2 篇、ICLR 1 篇）。只维护原始论文条目及 `selected` 标记，不另存一份书目信息。
 
 ## 本轮内容记录（2026-10-04）
 
@@ -49,7 +52,7 @@ Biography 保持简洁的两段结构：第一段为当前职位及研究概括�
 
 视觉微调：招生置顶条目采用浅蓝背景和蓝色左边线，补充友好的交流邀请；保留在 News 内。左侧 Office Hours 的时间与地点以中英文展示。Research Interests 小标题采用英文标题大小写、独立一行且不加末尾句点。
 
-页面末尾依次为 Professional Service、Talks、Office Hours。Professional Service 与 Talks 共用 `.detail-list` 的标签与内容两列布局、字号及间距。Office Hours 保留浅色背景与细边框的卡片式，时间和地点在桌面并排、手机端上下排列，联系方式置于卡片底部。
+页面末尾依次为 Awards、Professional Service、Talks、Office Hours。Awards、Professional Service 与 Talks 共用 `.detail-list` 的标签与内容两列布局、字号及间距。Office Hours 保留浅色背景与细边框的卡片式，时间和地点在桌面并排、手机端上下排列，联系方式置于卡片底部。Awards 收录 ISWC Best Paper Candidate（2023）及 CCKS Best English Paper（2018），CCKS 论文条目的奖项名称同步统一。
 
 混排字号：通过本地中文字体的 `size-adjust: 92%` 统一略缩小汉字及中文标点，英文仍为 Times New Roman。招生条目合并为一段，字号为 16px（中文字符再按上述比例显示），置顶标记与正文首行按基线对齐。
 
