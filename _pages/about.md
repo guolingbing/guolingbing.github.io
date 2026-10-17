@@ -106,16 +106,6 @@ redirect_from:
   </dl>
 </section>
 
-<section id="office-hours" class="home-section office-hours" aria-labelledby="office-title">
-  <h2 id="office-title">Office Hours <span class="heading-aside" lang="zh-CN">交流时间</span></h2>
-  <p>Students are welcome to discuss research ideas, learning, and academic plans.</p>
-  <dl class="office-details">
-    <div><dt>When / 时间</dt><dd>Wednesdays, 1:00–5:00 PM<br><span lang="zh-CN">每周三 13:00–17:00（北京时间）</span></dd></div>
-    <div><dt>Where / 地点</dt><dd>Room East 214, Nanyong Building<br><span lang="zh-CN">南雍楼东214 · 南京大学苏州校区</span></dd></div>
-  </dl>
-  <p class="office-contact">Contact: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
-</section>
-
 <footer class="homepage-footer">
   <div class="footer-identity">
     <span>Lingbing Guo · Nanjing University</span>
