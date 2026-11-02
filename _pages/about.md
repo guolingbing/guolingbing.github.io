@@ -94,7 +94,7 @@ redirect_from:
 <section id="service" class="home-section" aria-labelledby="service-title">
   <h2 id="service-title">Professional Service</h2>
   <dl class="detail-list">
-    <div><dt>Area Chair</dt><dd>ACL ARR, AAAI, ICLR.</dd></div>
+    <div><dt>Area Chair</dt><dd>ICML, ICLR, ACL ARR, AAAI.</dd></div>
     <div><dt>Reviewer</dt><dd>NeurIPS, ICLR, ICML, ACL ARR, AAAI, IJCAI, SIGIR, ACM MM, ECML, ISWC, COLING, TKDE, KBS, among others.</dd></div>
   </dl>
 </section>
